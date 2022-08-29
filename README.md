@@ -3,6 +3,7 @@
 # open '.ipynb' file
 <b/>
 번호판, 얼굴을 모자이크하는 코드입니다.
+<b/>
 process: check image list - plate mosaic - face mosaic <b/>
 2-stage <b/>
 1) 번호판 Yolov5 모델 검출(자체학습) -> mosaic <b/>
