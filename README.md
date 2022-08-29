@@ -2,8 +2,6 @@
 
 # open '.ipynb' file
 <b/>
-
-
 번호판, 얼굴을 모자이크하는 코드입니다.  
 <b/>
 process: check image list - plate mosaic - face mosaic  
