@@ -5,7 +5,7 @@
 
 번호판, 얼굴을 모자이크하는 코드입니다.  
 <b/>
-process: check image list - plate mosaic - face mosaic  
+process: check image list - plate mosaic - face mosaic
 2-stage 
 1) 번호판 Yolov5 모델 검출(자체학습) -> mosaic <b/>
 2) 얼굴 DSFD모델 (pretrained-weights) -> mosaic  <b/>
