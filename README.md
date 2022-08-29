@@ -13,4 +13,5 @@ process: check image list - plate mosaic - face mosaic
 각 검출 코드안에 mosaic 코드를 내장시켜 간소화하였습니다. <b/>
 
 input image folder: './images/input' <b/>
+
 output image folder: './images/output' <b/>
